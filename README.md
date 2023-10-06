@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith-b-s&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-b-s" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+<!-- 🌱 I’m currently learning **JavaScript**-->
 
 - 📫 How to reach me **sujithgowdabommetti@gmail.com**
 
