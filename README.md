@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sujithgowdabommetti@gmail.com**
 
-- 📄 Know about my experiences [Intern at Tackle-D solutions pvt lmtd](Intern at Tackle-D solutions pvt lmtd)
+- 📄 Know about my experiences: Intern at Tackle-D solutions pvt lmtd.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
