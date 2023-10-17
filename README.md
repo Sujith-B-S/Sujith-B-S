@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences: Intern at Tackle-D solutions pvt lmtd.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">LinkedIn profile:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujith b s" target="blank"><img align="center" src="https://th.bing.com/th/id/R.abdb36b128f0cfcee1329ddb1365a99b?rik=Q8UtGzuevu7ZBw&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f04%2flinkedin_logo.jpg&ehk=WX0fSjGgisCu4YfNc2IBnr7nLADE%2f06resHyt%2fqG1pg%3d&risl=&pid=ImgRaw&r=0" alt="sujith b s" height="30" width="40" /></a>
 </p>
